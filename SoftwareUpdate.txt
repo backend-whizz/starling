@@ -1,1 +1,1 @@
-Update fraction arg to employ a random selection (#8234)
+Update YOLOv3 and YOLOv5 YAMLs (#7574)
